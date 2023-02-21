@@ -2116,11 +2116,11 @@ input, select, textarea {
 					background: #f3f3f3;
 				}
 
-				#nav > ul > li.current > a {
+			/*	#nav > ul > li.current > a {
 					background: #d52349;
 					color: #fff !important;
 					font-weight: 700;
-				}
+				} */
 
 	.dropotron {
 		border-radius: 5px;
